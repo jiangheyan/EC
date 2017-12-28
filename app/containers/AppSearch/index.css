@@ -1,0 +1,31 @@
+.appSearch button{
+    color: #999 !important;
+}
+.appSearch .line{
+    border-top: 1px solid #999;
+    margin: 3.8rem -2rem;
+    padding: 1.8rem 1.5rem 3rem 2rem;
+}
+.appSearch .line button{
+    border-radius: 1rem;
+    margin: 1.5rem 1.5rem 0 0;
+}
+.appSearch .line button:hover{
+    border: 1px solid #e4514a !important;
+    color: #e4514a !important;
+}
+.appSearch .title{
+    color: #999;
+    font-size: 1.2rem;
+    text-align: left;
+    margin: 0;
+}
+.appSearch .rightFlo{
+    float: right;
+}
+.appSearch hr{
+    margin: 1rem 0 2rem;
+}
+.appSearch .hisItem li{
+    margin-top: 2rem;
+}

@@ -1,0 +1,27 @@
+.delete{
+    right: 4.5rem !important;
+}
+
+.iconRight{
+    right: 4rem !important;
+    z-index: 0 !important;
+}
+
+.iconLeft{
+    position: absolute !important;
+    top: 0.8rem !important;
+    left: 0.8rem;
+    z-index: 4 !important;
+}
+
+.showIcon{
+    z-index: 4 !important;
+}
+
+.searchInp{
+    padding-left: 2.5rem !important;
+}
+
+.whiteBack{
+    background: white;
+}
